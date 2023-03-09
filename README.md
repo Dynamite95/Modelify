@@ -1,1 +1,1 @@
-This reository consist of machine learning models which I have practised.
+This repository consist of machine learning models which have been practised along with the coursework.
